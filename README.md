@@ -99,9 +99,10 @@ This assignment is part of the certification process for the “30 Days SQL Micr
 
 ## 🔗 Connect with Me
 
-**👤 Dolly Gupta**  
-📧 [dollygupta362@gmail.com] 
-🔗 [LinkedIn](https://www.linkedin.com/in/dolly-gupta-3b54b8229)
+👤 **Name:** Dolly Gupta  
+🌐 **LinkedIn:** [https://www.linkedin.com/in/dolly-gupta-3b54b8229](https://www.linkedin.com/in/dolly-gupta-3b54b8229)  
+📬 **Email:** dollygupta362@gmail.com
+
 
 ---
 
