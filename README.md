@@ -1,4 +1,4 @@
-# 🏥 Hospital Data Analysis using SQL
+<h1 align='centre'> 🏥 Hospital Data Analysis using SQL </h1>
 
 ## 🚀 Project Title
 **30 Days SQL Micro Course - Final Assignment**
